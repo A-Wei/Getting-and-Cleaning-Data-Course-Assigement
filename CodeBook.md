@@ -6,9 +6,9 @@
 
 #About source data
 
-* As sourse data for work was used Human Activity Recognition Using Smartphones Data Set. 
-* A full description is available at the site where the data was obtained: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
-Here are the data for the project: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+> As sourse data for work was used Human Activity Recognition Using Smartphones Data Set. 
+> A full description is available at the site where the data was obtained: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
+> Here are the data for the project: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 #About R script
 
@@ -16,6 +16,7 @@ File with R code "run_analysis.R" perform 5 following steps:
 - 1. Download file
 - 1.1 Download if file doesn't exist
 - 1.2 Unzip if files do not exist
+
 - 2. Merging the training and the test sets to create one data set
 - 2.1 Reading fiels
 - 2.2 Assigning column names
